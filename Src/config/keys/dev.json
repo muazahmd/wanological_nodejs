@@ -1,0 +1,13 @@
+{
+  "BACKEND_MONGOURL":"mongodb://127.0.0.1:27017/mydatabase",
+  "API_Allowed_URL":"v2/",
+  "JWT_Secret":"1234567890",
+  "BACKEND_PORT":"300"
+
+
+ 
+}
+
+
+
+  
