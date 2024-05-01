@@ -7,7 +7,7 @@ import { container, inject, injectable, singleton } from 'tsyringe';
 
 import connectToDB from './Src/config/connection/MongoDB';
 import { UserModel } from './Src/Model/index';
-
+// j÷
 connectToDB()
   .then(async () => {
     
